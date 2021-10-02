@@ -1,0 +1,15 @@
+
+
+void main(){
+  
+  marks("name");
+}
+
+dynamic marks(var b){
+ var name=["My name is khizar,My age is 15 and My education is matric."];
+  for (var i in name){
+    print(i );
+ 
+
+  }
+}
